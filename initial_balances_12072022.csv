@@ -1,0 +1,5 @@
+﻿source,target,capacity,,num_nodes,func_count_nodes
+0,1,17,,37,"SUMPRODUCT(1/COUNTIF(data,data))"
+1,0,13,,,
+1,2,13,,,
+2,1,17,,,
